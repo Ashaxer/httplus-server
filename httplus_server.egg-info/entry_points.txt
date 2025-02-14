@@ -1,0 +1,2 @@
+[console_scripts]
+httplus-server = httplus_server.server:main
